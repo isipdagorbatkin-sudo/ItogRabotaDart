@@ -1,0 +1,3 @@
+analyzer:
+  errors:
+    unnecessary_getters_setters: ignore
